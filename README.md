@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keshika-Senthilkumar
-- 👀 I’m interested in Electronics based and IoT based projects
+- 👀 I’m interested in Electronics and IoT based projects
 - 🌱 I’m currently learning Spanish and Embedded Systems
 - 💞️ I’m looking to collaborate on projects that involve social problems
 - 📫 Can mail me at keshikasense@gmail.com
